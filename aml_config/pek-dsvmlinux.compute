@@ -1,0 +1,7 @@
+address: 52.148.92.118
+nativeSharedDirectory: ~/.azureml/share/
+password: AzureMlSecret=pek-dsvmlinux#zhpek#d6340a7d353c43d2b2646873720d8ae2
+pythonLocation: python3
+type: remote
+userManagedEnvironment: true
+username: zhpek

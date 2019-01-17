@@ -1,0 +1,6 @@
+type: remote
+nativeSharedDirectory: ~/.azureml/share/
+address: 52.148.92.118
+username: zhpek
+password: AzureMlSecret=155afda0-d744-af90-fb88-ef20191bdffb
+pythonLocation: python3

@@ -1,0 +1,4 @@
+type: remotedocker
+baseDockerImage: 'microsoft/mmlspark:plus-0.9.9'
+sharedVolumes: true
+nativeSharedDirectory: ~/.azureml/share/
